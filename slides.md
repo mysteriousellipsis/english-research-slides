@@ -86,7 +86,11 @@ For example, they should be taught from as early as possible the correct and eth
 
 ---
 
-### 
+### Teachers
+
+Increasing access to technology literacy courses in NIE and SkillsFuture can help teachers to learn more about and understand fair and responsible use of technology. 
+
+They can also use tools like GPTZero to ensure that students do not use AI to do their schoolwork. 
 
 ---
 
@@ -94,16 +98,6 @@ For example, they should be taught from as early as possible the correct and eth
 
 ---
 
-Technology is a powerful collection of tools, but it needs thoughtful integration into the current learning environment. 
-
----
-
-# Conclusion
-
-**Summary:**
-- Technology transforms education but needs thoughtful integration.
-
-**Call to Action:**
-- Use technology responsibly to foster inclusive and effective learning.
+Technology is a powerful collection of tools, but it needs careful and thoughtful integration into the system to prevent major problems from emerging.
 
 ---
